@@ -1,0 +1,6 @@
+{
+  "name": "중학 과학 제스처 퀴즈 - 손동작 인식 4지선다",
+  "description": "MediaPipe AI 손동작 인식으로 손가락 1~4개를 1.5초간 들어 정답을 선택하는 중학교 과학 10문제 인터랙티브 퀴즈 웹 애플리케이션",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
